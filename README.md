@@ -1,0 +1,1 @@
+# Reversi_with_Simple_AlphaZero
